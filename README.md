@@ -77,7 +77,7 @@ A Python-based AI QA agent that tests LLM application responses, logs failures, 
 ![Status](https://img.shields.io/badge/Status-Proof%20of%20Concept-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Testing](https://img.shields.io/badge/Testing-Pytest-purple)
-
+```
 ---
 
 ## Why This Project Matters
@@ -569,4 +569,3 @@ Production AI systems need to prove something harder:
 This project is a small step toward that goal.
 ```
 
----
