@@ -1,3 +1,16 @@
+# Gradient AI QA Agent
+
+![Gradient AI QA Agent Header](docs/header.png)
+
+A Python-based AI QA agent that tests LLM application responses, logs failures, and generates structured QA reports before production deployment.
+
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![Status](https://img.shields.io/badge/Status-Proof%20of%20Concept-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Testing](https://img.shields.io/badge/Testing-Pytest-purple)
+![AI Testing](https://img.shields.io/badge/AI%20Testing-LLM%20QA-red)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-Gradient%20AI-0080FF)
+
 # Gradient AI QA Agent — Complete GitHub Project
 
 A complete markdown-formatted project package for your GitHub repository.
@@ -62,22 +75,6 @@ gradient-ai-qa-agent/
     └── architecture.png
 ```
 
----
-
-# 5. `README.md`
-
-```markdown
-# Gradient AI QA Agent
-
-![Gradient AI QA Agent Header](docs/header.png)
-
-A Python-based AI QA agent that tests LLM application responses, logs failures, and generates structured QA reports before production deployment.
-
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
-![Status](https://img.shields.io/badge/Status-Proof%20of%20Concept-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Testing](https://img.shields.io/badge/Testing-Pytest-purple)
-```
 ---
 
 ## Why This Project Matters
