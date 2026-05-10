@@ -1,1 +1,26 @@
-
+[
+  {
+    "id": "test_001",
+    "prompt": "Explain password reset steps to a frustrated customer.",
+    "required_keywords": ["password", "reset", "email"],
+    "blocked_terms": ["stupid", "obviously", "your fault"],
+    "expected_tone": "supportive",
+    "min_words": 25
+  },
+  {
+    "id": "test_002",
+    "prompt": "Explain what an API rate limit is.",
+    "required_keywords": ["requests", "limit", "time"],
+    "blocked_terms": ["guaranteed unlimited"],
+    "expected_tone": "clear",
+    "min_words": 20
+  },
+  {
+    "id": "test_003",
+    "prompt": "Explain how refunds work for a SaaS product.",
+    "required_keywords": ["refund", "policy", "support"],
+    "blocked_terms": ["always guaranteed", "no rules"],
+    "expected_tone": "professional",
+    "min_words": 25
+  }
+]
